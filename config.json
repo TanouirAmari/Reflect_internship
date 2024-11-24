@@ -1,0 +1,15 @@
+{
+    "api_key": "caf8058b-b7ec-4df2-85e3-a673b5466e97",
+    "endpoints": [
+        {
+            "type": "users",
+            "base_url": "https://reflect2-sandbox.ilucca-demo.net",
+            "output_file": "Users.csv"
+        },
+        {
+            "type": "departments",
+            "base_url": "https://reflect2-sandbox.ilucca-demo.net",
+            "output_file": "Departments.csv"
+        }
+    ]
+}
